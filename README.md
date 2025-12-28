@@ -76,9 +76,9 @@ ResNet50 was selected due to its strong performance on texture- and edge-driven 
 
 ---
 
-<img width="1174" height="407" alt="image" src="https://github.com/user-attachments/assets/16bdd822-a367-48bd-9a9e-432e33f363fe" />
-
 ## Explainability with Grad-CAM
+
+<img width="1174" height="407" alt="image" src="https://github.com/user-attachments/assets/16bdd822-a367-48bd-9a9e-432e33f363fe" />
 
 The SDNET2018 dataset provides **image-level labels only** and does not include bounding-box annotations.
 
@@ -190,3 +190,4 @@ Please open issues or submit pull requests for:
 
 Built by **Shreyas Gaikwad**
 Focus: Computer Vision · Deep Learning · Automated Visual Inspection
+
