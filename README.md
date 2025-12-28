@@ -189,5 +189,5 @@ Please open issues or submit pull requests for:
 ## Author
 
 Built by **Shreyas Gaikwad**
-Focus: Computer Vision · Deep Learning · Automated Visual Inspection
 
+Focus: Computer Vision · Deep Learning · Automated Visual Inspection
